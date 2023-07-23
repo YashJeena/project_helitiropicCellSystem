@@ -26,3 +26,14 @@ module and make the overall system to be scalable as well as fault
 tolerant.Theoretically the system should be atleast 29.3%, if we calculate the lost
 energy due the incident angle,and only assume half of it is usable in form of electricity
 due multiple losses.
+
+# Conclusion
+The results implies that the growth in average intensity achieved is practical and would give
+excellent results when deployed at scale.There are some notes which are to be kept in mind
+before deploying the system,the energy used in movement and computation should be
+recovered within a practical time frame for the subsystem to be useful.Due to the inclusion of
+the moving parts in the overall solar panel system,maintenance might be required more
+frequently.
+Finally we can observe a logically functioning solar panel based electricity generation system
+which when modified after taking inspiration from heliotropic plants, is able generate significantly
+more power than it was generating without the modification.
